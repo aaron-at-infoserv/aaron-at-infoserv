@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&width=600&lines=Bringing+quality+solutions+to+a+rapidly+evolving+economy;Delivering+on+the+most+challenging+technology+needs;Staying+ahead+of+the+curve)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=57F048&background=324531&center=true&vCenter=true&width=800&lines=Bringing+quality+solutions+to+a+rapidly+evolving+industry;Delivering+on+the+most+demanding+technology+needs;Staying+ahead+of+the+curve)](https://git.io/typing-svg)
 
 Hi, I’m Aaron
 
