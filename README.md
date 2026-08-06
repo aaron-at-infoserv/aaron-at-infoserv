@@ -6,6 +6,6 @@ Hi, I’m Aaron
 
 Software Engineer at Infoserv Systems Ltd, helping deliver bespoke, high-performance systems in demanding environments. Outside of work, I build and experiment with products, driven by a strong interest in innovation, systems thinking, and entrepreneurship.
 
-[code-wars](https://www.codewars.com/users/aaron-at-infoserv/badges/small)
+![code-wars](https://www.codewars.com/users/aaron-at-infoserv/badges/small)
 
 > A code kata a day keeps the bugs away.
